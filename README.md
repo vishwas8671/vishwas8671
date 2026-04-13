@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Vishwas Rajput
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Vishwas+Rajput;CSE-AIML+Student;MERN+Stack+Developer;DSA+Enthusiast" />
+</p>
 
-🎓 **B.Tech CSE (AI/ML) Student** at ABES Engineering College
-💻 Passionate about **Data Structures, Algorithms & Full-Stack Development**
-🚀 Currently learning and building projects using the **MERN Stack**
+<h1 align="center">👋 Hi, I'm Vishwas Rajput</h1>
+
+<p align="center">
+🎓 B.Tech CSE (AI/ML) Student at ABES Engineering College <br>
+💻 Passionate about Data Structures, Algorithms & Full Stack Development <br>
+🚀 Currently building projects using MERN Stack
+</p>
 
 ---
 
@@ -42,19 +48,41 @@
 
 # 📊 GitHub Stats
 
-![Vishwas GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwas8671\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vishwas8671&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vishwas8671\&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=vishwas8671&theme=tokyonight" />
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwas8671\&theme=tokyo-night)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwas8671&theme=tokyo-night" />
+</p>
+
+---
+
+# 🧠 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?logo=leetcode"/>
+</a>
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Active%20Coder-brown?logo=codechef"/>
+</a>
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-green?logo=geeksforgeeks"/>
+</a>
+</p>
 
 ---
 
@@ -62,17 +90,17 @@
 
 ### 💰 Smart Expense Tracker
 
-Full-stack expense management application built using **MERN stack** that helps users track income, expenses, and spending patterns.
+MERN stack application to track income, expenses and visualize spending patterns.
 
 ### 📚 Personalized Learning Management System
 
-MERN based platform with **role-based authentication** for Admin, Instructor, and Student with course tracking and progress monitoring.
+Full-stack learning platform with role-based authentication and course management.
 
 ---
 
 # 🏆 Achievements
 
-* Solved **250+ coding problems**
+* Solved **250+ DSA problems**
 * AWS Academy **Cloud Foundations**
 * **HCL GUVI Certifications**
 * **IBM AI Prompt Engineering**
@@ -81,10 +109,19 @@ MERN based platform with **role-based authentication** for Admin, Instructor, an
 
 # 📫 Connect With Me
 
-📧 Email: [vishwas.23b1531135@abes.ac.in](mailto:vishwas.23b1531135@abes.ac.in)
-💼 LinkedIn: https://linkedin.com/in/vishwasrajput
-💻 GitHub: https://github.com/vishwas8671
+<p align="center">
+<a href="https://linkedin.com/in/vishwasrajput">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+</a>
+<a href="mailto:vishwas.23b1531135@abes.ac.in">
+<img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
+</a>
+</p>
 
 ---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vishwas8671&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ⭐ *Building today to lead tomorrow*
