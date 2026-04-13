@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Vishwas+Rajput;CSE-AIML+Student;MERN+Stack+Developer;DSA+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF4B4B&center=true&vCenter=true&width=600&lines=Hi+I'm+Vishwas+Rajput;CSE-AIML+Student;MERN+Stack+Developer;DSA+Enthusiast" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Vishwas Rajput</h1>
